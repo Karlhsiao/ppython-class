@@ -18,7 +18,7 @@ items = [['蘋果', 50, 2],
 #計算總金額
 
 for i in items:
-    total = i[1] * i[2]
+    total += i[1] * i[2]
 
 order.append(items)
 order.append(total)
