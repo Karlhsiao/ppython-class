@@ -34,4 +34,3 @@ while True:
             print("訂單金額為：", order[4])
 
     order[4] = order[3] * order[2]
-        #剩下的自己寫寫看喔！
